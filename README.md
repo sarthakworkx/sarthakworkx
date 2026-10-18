@@ -10,10 +10,6 @@
 
 ###
 
-<img data-importer="image" align="left" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2syZ2VzZjdvYW8zZDVrenFrZjg2dnFmMnd4ZnQ0dXF2c3Z3cWZqbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-
-###
-
 <p data-importer="text" align="left">✨ Tech Enthusiast<br>📚 Exploring product creation and startup thinking.<br>🎯 Turn creative ideas into useful websites, apps, and digital experiences.</p>
 
 ###
@@ -79,18 +75,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
 </div>
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/sarthakworkx/sarthakworkx/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarthakworkx/sarthakworkx/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarthakworkx/sarthakworkx/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sarthakworkx/sarthakworkx/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
 
 ###
 
